@@ -489,7 +489,7 @@ border: 1px solid rgba(154, 154, 154, 0.75);
 }
 
 div.scrolling {
-  width: 1420px;
+  width: auto;
   height: 130px;
   padding: 30px;
   border: tomato solid 1px;
