@@ -414,7 +414,7 @@ border-collapse: collapse;
 /* in inspector mode - easier to see the difference between collapse and no collapse */
 border: 1px solid saddlebrown;
 text-align: center;
-width: 1420px;
+width: auto;
 
 }
 
